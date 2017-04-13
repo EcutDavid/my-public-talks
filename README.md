@@ -11,7 +11,7 @@
   - Mar 26, 2016
 
 
-- Introduction webpack/React/flux
+- Webpack&React&flux introduction 
   - [Slide](https://github.com/EcutDavid/react_flux_webpackDEMO)
   - [Shanghai Javascript meetup](https://www.meetup.com/Shanghai-JavaScript/events/224553688/)
   - Sep 14, 2015
