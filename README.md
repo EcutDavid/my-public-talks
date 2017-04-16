@@ -1,3 +1,9 @@
+- Web development 101
+  - [Slide](http://bit.ly/2pi4Xc0)
+  - [Shanghai Barcamp Spring 2017](https://www.meetup.com/Techyizu/events/237971536/)
+  - Apr 15, 2017
+
+
 - Real-time Application with socket.io/Firebase
   - [Slide](http://slides.com/davidguan/deck-1#/)
   - [Shanghai Javascript meetup](https://www.meetup.com/Shanghai-JavaScript/events/236373304/)
