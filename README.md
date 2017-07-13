@@ -1,3 +1,8 @@
+- Web GL workshop
+  - [Slide](http://slides.com/davidguan/webgl-workshop#/)
+  - [le wagon Shanghai](https://www.meetup.com/Le-Wagon-Shanghai-Coding-Station/events/240903892/)
+  - June 27, 2017
+
 - Web development 101
   - [Slide](http://bit.ly/2pi4Xc0)
   - [Shanghai Barcamp Spring 2017](https://www.meetup.com/Techyizu/events/237971536/)
